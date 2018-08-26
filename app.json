@@ -1,0 +1,8 @@
+{
+  "name": "goflyway",
+  "description": "deploy goflyway to Heroku.",
+  "keywords": ["goflyway"],
+  "website": "https://github.com/giegloop/goflyway-heroku",
+  "repository": "https://github.com/giegloop/goflyway-heroku",
+  "stack": "container"
+ }
